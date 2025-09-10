@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Cypress generated files
+cypress/videos/
+cypress/screenshots/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files (if you use them for secrets)
+.env
+.env.local
