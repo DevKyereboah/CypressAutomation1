@@ -17,3 +17,6 @@ Thumbs.db
 # Environment files (if you use them for secrets)
 .env
 .env.local
+
+# custom ignore
+cypress/fixtures/loginData.json
