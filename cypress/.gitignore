@@ -18,5 +18,5 @@ Thumbs.db
 .env
 .env.local
 
-# custom ignore
-cypress/fixtures/*.json
+# Ignore test data files
+./cypress/fixtures/loginData.json
